@@ -1,0 +1,7 @@
+default:
+  DATABASE_URL: "mysql+pymysql://root:password@localhost:3306/mydatabase"
+# production:
+#   DATABASE_URL: "mysql+mysqlconnector://root:prod@localhost:3306/proddb"
+
+# [default]
+# DATABASE_URL = "mysql+pymysql://root:password@localhost:3306/mydatabase"
